@@ -1,2 +1,6 @@
 # Microcosm
-Capstone Project for Computing in the Arts major
+
+## Introduction
+Microcosm is a physics simulation generated for dynamic backdrops in performances. Users will project the animation simulation onto surfaces like the wall or floor in order to create an immersive environment for performing art. The purpose of Microcosm is to provide an immersive environment for performing art for small groups or solo performers.
+
+The physics simulation will be created within the Unity Game Engine in order to depict a 3D environment of a beach. The beach environment will be a horizon line of sky, ocean, and sand. In order to create the immersive nature of an environment, there will be two separate animations synced together in order to have a projection onto a wall and the floor. The floor projection will be a pre-programmed animation of water caustics and ripples, while the wall projection will contain anti-gravity water particles moving through the air in the beach scene. The assets used to create the environment will be made within Unity and the asset that will be coded for the physics simulation is a group of water particles. The simulation will be a pre- programmed animation and the user will only need to play it and decide how to interact with the simulation in order to construct a performance piece.
